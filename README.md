@@ -1,4 +1,4 @@
-# Coursera_Word_Prediction_App
+# Word Prediction App- Work from Coursera Captone Project for Data Science Specialization
 This repository has the work for the Coursera Data Science Specialization Capstone Project. The project is concerned with developing an application in Shiny which predicts the next word in a sentence.
 
 Framing the Project: Goals and Data
