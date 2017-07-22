@@ -28,13 +28,12 @@ Katz Back-Off Model: The Stupid Version
 Operationalizing the model: Word Prediction Shiny App
 ========================================================
 Using the App:
-- To the left is a sample snapshot of the app. It includes instructions on how to operate the app making it that much easier on users.
 - The app is designed with ease of use and speed in mind. Given Shiny's size constraint, the data tables housing the n-grams and probabilities have to be compact. As such accuracy has been sacrificed but, though it still does pretty well.
 - There are four simple steps: let the app load, enter a word or phrase, click predict, and observe the results.
 - Additionally, the UI has been designed to be eye catching while recognizing the key drivers behind the project with logos for Coursera and Swiftkey.
 
 The Pitch: Utility, Simplicity, and Elegance
 ========================================================
-Use the App
+Deploying the App for Usage:
 
 The technological landscape consumers inhabit is driven by speed and convenience. The app provides a quick and easy way to speed up typing reports, sending texts, or completing one final idea. Lost in your own thoughts? Writers block hit? Simply hit the predict next word button and see what comes out! Of course, it's utility can be assessed by using it. Check out the link here and play around with the app: https://markpreston.shinyapps.io/Word_Prediction_App/
